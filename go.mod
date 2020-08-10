@@ -1,4 +1,4 @@
-module github.com/hexya-erp/hexya-demo
+module github.com/wwsheng009/hexya-demo
 
 go 1.13
 
