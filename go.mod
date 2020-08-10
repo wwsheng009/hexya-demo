@@ -7,3 +7,4 @@ require (
 	github.com/hexya-erp/hexya v0.1.7
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
 	github.com/spf13/cobra v0.0.5
+)
