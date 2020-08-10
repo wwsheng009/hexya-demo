@@ -11,7 +11,9 @@ Demo = true
 [DB]
 #Driver = "postgres"
 #Host = "/var/run/postgresql"
+Host = "localhost"
 #Port = 5432
+Port = 5432
 #User = ""
 #Password = ""
 #Name = "hexya"
